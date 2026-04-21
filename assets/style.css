@@ -1,0 +1,26 @@
+/* ══════════════════════════════════════════════════════════════
+   MEDISAFE — Clean White Clinical Theme
+   Brand: #18E299 accent · #0d0d0d text · #ffffff background
+   ══════════════════════════════════════════════════════════════ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+:root {
+  --white: #ffffff;
+  --black: #0d0d0d;
+  --text-primary:  #0d0d0d;
+  --text-secondary:#333333;
+  --text-tertiary: #666666;
+  --text-placeholder: #888888;
+  --accent:        #18E299;
+  --accent-bg:     #d4fae8;
+  --accent-text:   #0fa76e;
+  --border-default: rgba(0,0,0,0.05);
+  --border-interactive: rgba(0,0,0,0.08);
+  --shadow-card:   rgba(0,0,0,0.03) 0px 2px 4px;
+  --shadow-btn:    rgba(0,0,0,0.06) 0px 1px 2px;
+  --radius-card:   16px;
+  --radius-featured: 24px;
+  --radius-pill:   9999px;
+  --font:          'Inter', -apple-system, sans-serif;
+}
